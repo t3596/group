@@ -1,0 +1,6 @@
+{
+  "name": "快速分組小工具",
+  "description": "快速、公平的隨機分組工具，支援名單匯入與自定義分組規則。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
